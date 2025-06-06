@@ -1,0 +1,19 @@
+{
+    "name": "tristan-deschamp/formguard",
+    "description": "Librairie PHP de sécurité pour formulaires",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FormGuard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tristan Deschamp",
+            "email": "tristan2020.d@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -1,0 +1,18 @@
+# Composer
+/vendor/
+
+# Logs
+/logs/
+*.log
+
+# OS/macOS/Linux
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Tests temporaires
+*.bak
+*.tmp
