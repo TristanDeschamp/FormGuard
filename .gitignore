@@ -1,18 +1,21 @@
-# Composer
+# Composer dependencies
 /vendor/
 
 # Logs
 /logs/
 *.log
 
-# OS/macOS/Linux
-.DS_Store
-Thumbs.db
-
-# IDE
-.idea/
-.vscode/
-
 # Tests temporaires
 *.bak
 *.tmp
+
+# PHPUnit
+.phpunit.result.cache
+
+# OS/macOS/Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
